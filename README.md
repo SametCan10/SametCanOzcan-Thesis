@@ -12,8 +12,7 @@ metric capturing selection quality relative to an objective qualification standa
 
 ## Data
 
-Study data collected via Prolific. Dataset will be deposited at DataverseNL 
-(DOI to be added upon publication).
+Study data collected via Prolific. Dataset will be shown at DataverseNL.
 
 ## Author
 
