@@ -4,7 +4,7 @@ MSc thesis — Data Science for Decision Making, Maastricht University
 
 ## Overview
 
-A preregistered between-subjects online experiment (N = 174, recruited via 
+A preregistered online experiment (N = 174, recruited via 
 Prolific) examining whether reflective nudges and automatic nudges can reduce 
 gender bias and automation bias in AI assisted hiring decisions.
 
